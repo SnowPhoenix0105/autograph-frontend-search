@@ -2,7 +2,7 @@ name: Build And Pushlish
 
 on: 
   push:
-    branches: *
+    branches: [all]
 
 jobs:
 
